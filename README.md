@@ -18,6 +18,7 @@ This project demonstrates a robust digit classification system using a Convoluti
   - Classify each digit using the trained CNN.
   - Reconstruct the complete phone number.
 
+
 ## Technologies Used
 
 - Python
@@ -28,7 +29,7 @@ This project demonstrates a robust digit classification system using a Convoluti
 
 ## Project Structure
 
-handWritten_phoneNumber_recognizer.ipynb        - Colab notebook for model training and evaluation along with recognizing handwritten phone numbers   
+handWritten_phoneNumber_recognizer.ipynb        - Google Colab notebook for model training and evaluation along with recognizing handwritten phone numbers   
 -sample phone number images  
     └── phone_number_1.png  
     └── phone_number_2.png  
@@ -37,7 +38,10 @@ README.md                         - Project documentation
 
 ## Sample Output
 
-Detected phone number: 9876543210
+Final Training   Accuracy: 98.16%
+Final Validation Accuracy: 99.37%
+Test accuracy: 99.48%
+Detected Phone Number: 9876593220
 
 
 ## How to Use
